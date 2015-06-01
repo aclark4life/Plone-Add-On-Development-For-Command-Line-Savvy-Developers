@@ -13,10 +13,12 @@ setup(
     keywords='',
     include_package_data=True,
     install_requires=[
+        'setuptools',
     ],
     long_description=open('README.rst').read() + '\n' + open('CHANGES.rst').read(),
-    name='',
+    name='hello.world',
     namespace_packages=[
+        'hello',
     ],
     packages=find_packages(),
     url='',
