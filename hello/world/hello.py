@@ -1,4 +1,4 @@
-s is hello/world/hello.py
+# This is hello/world/hello.py
 from zope.publisher.browser import BrowserPage as View
 
 
