@@ -1,5 +1,3 @@
-# Package setup
-# Run check-manifest and pyroma before uploading to PyPI
 from setuptools import find_packages
 from setuptools import setup
 
